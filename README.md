@@ -1,6 +1,15 @@
-<h5 align="left">Olá 👋! Meu nome é Thiago sou estudante de Análise e desenvolvimentos de sistemas</h5>
+<h4 align="left">Olá 👋! Meu nome é Thiago</h4>
+<h4 align="left">Estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Atualmente, estou no 4º semestre. </h4>
 
-###
+<h4 aling="left"> Conhecimentos básicos nas linguagens:</h4>
+
+ 
+  - Python
+  - Html
+  - Css
+  - JavaScript
+  - C#
+
 
 <p align="left">Techs</p>
 
